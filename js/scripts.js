@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const images = document.getElementById('images');
 
     // Function to display student ID
-    myStudentId.textContent = "Student ID: 200551703"; 
+    myStudentId.textContent = "Student ID: 200520843"; 
 
     // Function to change background color based on custom input
     changeCustomColorBtn.addEventListener('click', function() {
